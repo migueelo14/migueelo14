@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="365" viewBox="0 0 900 365" role="img" aria-label="Sobre mí — migueelo14">
+<title>Sobre mí — migueelo14</title>
+<style>
+text{font-family:'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="364" rx="14" fill="#0d1117" stroke="#1f3b2a"/>
+<path d="M14 0.5 H886 A13.5 13.5 0 0 1 899.5 14 V34 H0.5 V14 A13.5 13.5 0 0 1 14 0.5Z" fill="#161b22"/>
+<line x1="0.5" y1="34" x2="899.5" y2="34" stroke="#1f3b2a"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="450.0" y="22" text-anchor="middle" font-size="13" fill="#8b949e">~/sobre_mi — bash</text>
+<text x="26" y="70" font-size="15" font-weight="700" fill="#00ff41" textLength="180.0" lengthAdjust="spacingAndGlyphs" opacity="0">migueelo14@github:~$<animate attributeName="opacity" to="1" dur=".01s" begin="0.50s" fill="freeze"/></text>
+<clipPath id="cmd0"><rect x="215.0" y="55" width="0" height="21.0">
+<animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0" dur="0.39s" begin="0.85s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="215.0" y="70" font-size="15" font-weight="400" fill="#c9d1d9" textLength="54.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmd0)">whoami</text>
+<text x="44" y="97" font-size="15" fill="#c9d1d9" opacity="0"><tspan fill="#00ff41"></tspan>migueelo14 · estudiante de desarrollo · fan de automatizarlo todo<animate attributeName="opacity" to="1" dur=".25s" begin="1.59s" fill="freeze"/></text>
+<text x="26" y="132" font-size="15" font-weight="700" fill="#00ff41" textLength="180.0" lengthAdjust="spacingAndGlyphs" opacity="0">migueelo14@github:~$<animate attributeName="opacity" to="1" dur=".01s" begin="2.21s" fill="freeze"/></text>
+<clipPath id="cmd1"><rect x="215.0" y="117" width="0" height="21.0">
+<animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0" dur="1.04s" begin="2.56s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="215.0" y="132" font-size="15" font-weight="400" fill="#c9d1d9" textLength="144.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmd1)">cat sobre_mi.txt</text>
+<text x="44" y="159" font-size="15" fill="#c9d1d9" opacity="0"><tspan fill="#00ff41">[+] </tspan>Apasionado por la automatización y el desarrollo con herramientas IA<animate attributeName="opacity" to="1" dur=".25s" begin="3.95s" fill="freeze"/></text>
+<text x="44" y="186" font-size="15" fill="#c9d1d9" opacity="0"><tspan fill="#00ff41">[+] </tspan>Creo soluciones que ahorran tiempo y potencian la eficiencia<animate attributeName="opacity" to="1" dur=".25s" begin="4.17s" fill="freeze"/></text>
+<text x="44" y="213" font-size="15" fill="#c9d1d9" opacity="0"><tspan fill="#00ff41">[+] </tspan>Me flipa hacer juegos y side-projects: Java, Python, Unity<animate attributeName="opacity" to="1" dur=".25s" begin="4.39s" fill="freeze"/></text>
+<text x="44" y="240" font-size="15" fill="#e3b341" opacity="0"><tspan fill="#e3b341">[!] </tspan>Buscando prácticas / FCT  -&gt;  abierto a oportunidades<animate attributeName="opacity" to="1" dur=".25s" begin="4.61s" fill="freeze"/></text>
+<text x="26" y="275" font-size="15" font-weight="700" fill="#00ff41" textLength="180.0" lengthAdjust="spacingAndGlyphs" opacity="0">migueelo14@github:~$<animate attributeName="opacity" to="1" dur=".01s" begin="5.23s" fill="freeze"/></text>
+<clipPath id="cmd2"><rect x="215.0" y="260" width="0" height="21.0">
+<animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0" dur="0.65s" begin="5.58s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="215.0" y="275" font-size="15" font-weight="400" fill="#c9d1d9" textLength="90.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmd2)">ls ~/stack</text>
+<text x="44" y="302" font-size="15" fill="#39d353" opacity="0"><tspan fill="#00ff41"></tspan>java/  python/  ia/  c#/  unity/  linux/  git/<animate attributeName="opacity" to="1" dur=".25s" begin="6.58s" fill="freeze"/></text>
+<text x="26" y="337" font-size="15" font-weight="700" fill="#00ff41" textLength="180.0" lengthAdjust="spacingAndGlyphs" opacity="0">migueelo14@github:~$<animate attributeName="opacity" to="1" dur=".01s" begin="7.20s" fill="freeze"/></text>
+<rect x="215.0" y="324" width="9" height="17" fill="#00ff41" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" begin="7.20s" repeatCount="indefinite" calcMode="discrete"/></rect>
+</svg>

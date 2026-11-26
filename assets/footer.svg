@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-label="Gracias por pasarte">
+<title>Gracias por pasarte</title>
+<style>
+text{font-family:'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace}
+
+.wave{animation-name:slide;animation-timing-function:linear;animation-iteration-count:infinite}
+@keyframes slide{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><clipPath id="win"><rect width="900" height="130" rx="14"/></clipPath></defs>
+<g clip-path="url(#win)"><rect width="900" height="130" fill="#0d1117"/><g transform="translate(0,130) scale(1,-1)"><path class="wave" style="animation-duration:16s" d="M0 96 Q112.5 87 225.0 96 T450.0 96 T675.0 96 T900.0 96 T1125.0 96 T1350.0 96 T1575.0 96 T1800.0 96 L1800 130 L0 130 Z" fill="#0e4429" opacity="0.75"/></g><g transform="translate(0,130) scale(1,-1)"><path class="wave" style="animation-duration:10s" d="M0 102 Q75.0 95 150.0 102 T300.0 102 T450.0 102 T600.0 102 T750.0 102 T900.0 102 T1050.0 102 T1200.0 102 T1350.0 102 T1500.0 102 T1650.0 102 T1800.0 102 L1800 130 L0 130 Z" fill="#006d32" opacity="0.35"/></g><g transform="translate(0,130) scale(1,-1)"><path class="wave" style="animation-duration:7s" d="M0 108 Q56.2 103 112.5 108 T225.0 108 T337.5 108 T450.0 108 T562.5 108 T675.0 108 T787.5 108 T900.0 108 T1012.5 108 T1125.0 108 T1237.5 108 T1350.0 108 T1462.5 108 T1575.0 108 T1687.5 108 T1800.0 108 L1800 130 L0 130 Z" fill="#39d353" opacity="0.15"/></g></g>
+<text x="450.0" y="76" text-anchor="middle" font-size="15" fill="#8b949e"><tspan fill="#00ff41">migueelo14@github:~$</tspan> exit</text>
+<text x="450.0" y="102" text-anchor="middle" font-size="14" fill="#c9d1d9">conexión cerrada · gracias por pasarte <tspan class="blink" fill="#00ff41">█</tspan></text>
+
+</svg>
